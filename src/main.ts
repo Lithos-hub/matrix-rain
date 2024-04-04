@@ -7,11 +7,11 @@ document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
     <div class="buttons">
         <a href="https://github.com/Lithos-hub/matrix-rain" target="_blank">
             <button id="btn__github" class="transparent-box">
-                <img src="/public/icons/github.svg" width="17" height="17" />
+                <img src="/icons/github.svg" width="17" height="17" />
             </button>
         </a>
         <button id="btn__fullscreen" class="transparent-box">
-            <img src="/public/icons/expand.svg" width="17" height="17" />
+            <img src="/icons/expand.svg" width="17" height="17" />
         </button>
     </div>
 `;
